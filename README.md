@@ -11,26 +11,30 @@ This is a web scraper script built using Python and Selenium to scrape data from
 ## Installation
 
 1. Clone the repository.
-
-2. Create a virtual environment using the following command:
+   
+   ```bash
+   git@github.com:basarakcin/tikr-scrapr.git
+   ```
+   
+3. Create a virtual environment using the following command:
 
    ```bash
    python3 -m venv env-tikr
    ```
 
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 
    ```bash
    source env-tikr/bin/activate
    ```
 
-4. Install the required dependencies:
+5. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-5. Create a `.env` file in the project directory and add the following lines:
+6. Create a `.env` file in the project directory and add the following lines:
 
    ```plaintext
    EMAIL=<YOUR-EMAIL-ADDRESS>
