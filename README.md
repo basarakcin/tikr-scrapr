@@ -25,16 +25,10 @@ This is a web scraper script built using Python and Selenium to scrape data from
 4. Activate the virtual environment:
 
    ```bash
-   source env-tikr/bin/activate
+   source venv-activate.sh
    ```
 
-5. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. Create a `.env` file in the project directory and add the following lines:
+5. Create a `.env` file in the project directory and add the following lines:
 
    ```plaintext
    EMAIL=<YOUR-EMAIL-ADDRESS>
