@@ -13,7 +13,7 @@ This is a web scraper script built using Python and Selenium to scrape data from
 1. Clone the repository.
    
    ```bash
-   git@github.com:basarakcin/tikr-scrapr.git
+   git clone git@github.com:basarakcin/tikr-scrapr.git
    ```
    
 3. Create a virtual environment using the following command:
